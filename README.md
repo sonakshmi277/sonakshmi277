@@ -1,4 +1,5 @@
 ### 👋 Hi, I’m @sonakshmi277
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourgithubusername)
 
 - 👀 I’m interested in tech, learning cool stuff, and solving problems with code.
 - 🌱 Currently brushing up on DSA and exploring web dev.
