@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in tech, learning cool stuff, and solving problems with code.
 - 🌱 Currently brushing up on DSA and exploring web dev.
-- 💞️ Open to connecting and learning with like-minded folks.
+- 😄 Open to connecting and learning with like-minded folks.
 - 📫 Reach me at: sonakshmibhattacharya@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I juggle code and karate — turns out debugging and sparring both need strategy and patience. 😄🥋
