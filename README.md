@@ -5,7 +5,7 @@
 - 💞️ Open to connecting and learning with like-minded folks.
 - 📫 Reach me at: sonakshmibhattacharya@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I practice martial arts, which strengthens my focus, discipline, and problem-solving — both on the mat and in code. 😄🥋
+- ⚡ Fun fact: I juggle code and karate — turns out debugging and sparring both need strategy and patience 😄🥋
 
 
 <!---
