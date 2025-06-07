@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @sonakshmi277
+### 👋 Hi, I’m Sonakshmi
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourgithubusername)
 
 - 👀 I’m interested in tech, learning cool stuff.
