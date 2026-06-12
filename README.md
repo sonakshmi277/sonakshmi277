@@ -6,7 +6,7 @@
 - 😄 Open to connecting and learning with like-minded folks.
 - 📫 Reach me at: sonakshmibhattacharya@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I juggle code and karate — turns out debugging and sparring both need strategy and patience. 😄🥋
+- ⚡ Fun fact: I juggle code and karate, well it turns out debugging and sparring both need strategy and patience. 😄🥋
 
 
 <!---
